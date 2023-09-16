@@ -19,7 +19,6 @@ Sou estudante de ciência da computação na Universidade Federal do Rio de Jane
 
 <a href="https://github.com/DudaLeal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudaLeal&theme=jolly&hide_langs_below=1" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DudaLeal&theme=jolly&show_icons=true" />
 </a>
 
 ## Onde me encontrar
