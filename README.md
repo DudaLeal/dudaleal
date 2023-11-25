@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Eduarda Leal!</strong>
+## :sparkling_heart: Olá, meu nome é <strong>Eduarda Leal!</strong>
 
 Sou estudante de ciência da computação na Universidade Federal do Rio de Janeiro
 
@@ -18,7 +18,7 @@ Sou estudante de ciência da computação na Universidade Federal do Rio de Jane
 ## Status
 
 <a href="https://github.com/DudaLeal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudaLeal&theme=jolly&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudaLeal&theme=rose&hide_langs_below=1" />
 </a>
 
 ## Onde me encontrar
