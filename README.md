@@ -2,7 +2,8 @@
 
 I am an undergraduate student in Computer Science at the Federal University of Rio de Janeiro (UFRJ), with 3 years of experience in software development. Throughout my career, I have worked on challenging projects, including full-stack applications and a chatbot for automated customer service using Node.js, AWS, and IBM Watson. 
 
-## Linguagens e ferramentas
+## Languages & Tools
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -21,7 +22,7 @@ I am an undergraduate student in Computer Science at the Federal University of R
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudaLeal&theme=rose&hide_langs_below=1" />
 </a>
 
-## Onde me encontrar
+## Where to Find Me
 
 [![Linkedin](https://img.shields.io/badge/-Eduarda_Carvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduarda-carvalho-041a20168/)](https://www.linkedin.com/in/eduarda-carvalho-041a20168/)
 [![Gmail Badge](https://img.shields.io/badge/-duda.leal1999@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duda.leal1999@gmail.com)](mailto:duda.leal1999@gmail.com)
