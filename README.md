@@ -1,6 +1,6 @@
-## :sparkling_heart: Olá, meu nome é <strong>Eduarda Leal!</strong>
+## :sparkling_heart: Hi, I'm <strong>Eduarda Carvalho!</strong>
 
-Sou estudante de ciência da computação na Universidade Federal do Rio de Janeiro
+I am an undergraduate student in Computer Science at the Federal University of Rio de Janeiro (UFRJ), with 3 years of experience in software development. Throughout my career, I have worked on challenging projects, including full-stack applications and a chatbot for automated customer service using Node.js, AWS, and IBM Watson. 
 
 ## Linguagens e ferramentas
 <div style="display: inline_block"><br>
